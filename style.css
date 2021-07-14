@@ -1,0 +1,29 @@
+#map {
+    width:50%;
+    height:500px;
+    display: inline-block;
+}
+
+.content{
+    text-align: center;
+}
+
+.map-search-box{
+    margin: 25px 0;
+}
+
+#searchButton{
+    height: 30px;
+    padding: 0 10px;
+    border: 1px solid #c5c1c1;
+    border-radius: 5px;
+    color: #282929;
+    margin-left: 5px;
+}
+
+#searchText{
+    height: 30px;
+    padding: 0 10px;
+    border: 1px solid #c5c1c1;
+    border-radius: 5px;
+}
